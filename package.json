@@ -1,0 +1,9 @@
+{
+  "name": "package_for_vteclAR_project",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
